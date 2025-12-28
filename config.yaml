@@ -1,4 +1,2 @@
-loaded_model = joblib.load('my_model.joblib')
-
 path: "path_to_model.joblib
 features: ['feature_A', 'feature_B']
