@@ -1,2 +1,2 @@
-path: my_model.joblib
-features: ['MDVP:Fo(Hz)', 'MDVP:Fhi(Hz)']
+path: "adi.joblib"
+features: ['MDVP:Fhi(Hz)', 'MDVP:Jitter(Abs)']
